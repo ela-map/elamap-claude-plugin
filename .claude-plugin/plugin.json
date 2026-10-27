@@ -1,0 +1,13 @@
+{
+  "name": "ela-map",
+  "displayName": "ELA Map",
+  "version": "1.0.0",
+  "description": "See which of your astrocartography lines run through any place in the world, from your birth date, time and place, with a small map and a link to open everything on your full ELA Map.",
+  "author": { "name": "Spirit River Inc.", "url": "https://elamap.com" },
+  "icon": "./.claude-plugin/icon.png",
+  "homepage": "https://elamap.com/assistant",
+  "privacyPolicyUrl": "https://elamap.com/privacy",
+  "repository": "https://github.com/ela-map/elamap-claude-plugin",
+  "license": "MIT",
+  "keywords": ["astrocartography", "astrology", "relocation", "map"]
+}

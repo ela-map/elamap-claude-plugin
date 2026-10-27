@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "elamap": {
+      "type": "http",
+      "url": "https://elamap.com/api/mcp"
+    }
+  }
+}
